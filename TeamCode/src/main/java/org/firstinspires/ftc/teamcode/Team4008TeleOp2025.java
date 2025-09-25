@@ -70,7 +70,7 @@ public class Team4008TeleOp2025 extends LinearOpMode {
                 moveRight(mag);
             }
 
-
+         // testing
             //write your code here
         }
     }
@@ -100,6 +100,5 @@ public class Team4008TeleOp2025 extends LinearOpMode {
         // Left Wheels                         //Right Wheels
         robot.DriveLeftFront.setPower(0);      robot.DriveRightFront.setPower(0);
         robot.DriveRightBack.setPower(0);      robot.DriveLeftBack.setPower(0);
-
     }
 }
